@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Riddhish Khot</h1>
+<h1 align="center"><img width="40" src="https://raw.githubusercontent.com/vitasha10/vitasha10/main/assets/Hand%20Wave.gif" width="33"/> Hey there! Nice to meet you :)</h1>
 <h3 align="center">A passionate Software Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/riddhish-khot-1865291ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/riddhish-khot-1865291ba/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ridk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ridk" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/riddhish-khot-1865291ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/riddhish-khot-1865291ba/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
